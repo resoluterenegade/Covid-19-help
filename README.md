@@ -24,8 +24,12 @@ Some of the images screenshots take while creating bot chat(Steps followed)
 
 
 5.Creating static web app service
+![Step 5](https://user-images.githubusercontent.com/82353671/178324794-3839c3e0-35b5-420d-abb7-7ff8d8456d29.jpg)
+
+
+6.Successfully hosted web app
 ![Final step](https://user-images.githubusercontent.com/82353671/178323092-fe3ff821-4de9-4567-a418-94142c11023c.jpg)
 
 
-Successfully posted web app
+Homepage of website
 ![Success](https://user-images.githubusercontent.com/82353671/178323280-1d0a2aa2-f2db-42f1-b6ca-839569867450.jpg)
